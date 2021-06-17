@@ -62,5 +62,5 @@
  
  
  - 프로젝트 일정 관리   
- <img src=캡스톤 일정관리.png height=300 width=500>  
+![캡스톤 일정관리](https://user-images.githubusercontent.com/71215507/122325899-5daa7c80-cf66-11eb-9f97-28d3a6dec299.png)
 
