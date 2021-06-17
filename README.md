@@ -67,5 +67,5 @@
 - 프로젝트 다이어그램
 ![캡스톤 다이어그램](https://user-images.githubusercontent.com/71215507/122325993-8763a380-cf66-11eb-9b97-6ef329cff5ba.png)
 
--프로그램 화면 설계
+- 프로그램 화면 설계   
 <img width="483" alt="캡스톤 화면설계" src="https://user-images.githubusercontent.com/71215507/122326046-a104eb00-cf66-11eb-8352-abb1ea18b0ba.png">
