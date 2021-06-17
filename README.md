@@ -64,3 +64,5 @@
  - 프로젝트 일정 관리   
 ![캡스톤 일정관리](https://user-images.githubusercontent.com/71215507/122325899-5daa7c80-cf66-11eb-9f97-28d3a6dec299.png)
 
+- 프로젝트 다이어그램
+
