@@ -1,8 +1,5 @@
 -------------------------------------------
 <div align=center>
- <img src="https://capsule-render.vercel.app/api?type=waving&color=autoF&height=200&section=header&animation=fadeIn&descAlignY=57&descAlign=58" />
-</div>
-<div align=center>
  <h3>Name: 이소민</h4>
  <h3>Email: somin9132@naver.com</h4>
 </div>
@@ -36,3 +33,4 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
+-------------------------------------------
