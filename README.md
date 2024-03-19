@@ -2,9 +2,9 @@
 <div align=center>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=autoF&height=200&section=header&animation=fadeIn&descAlignY=57&descAlign=58" />
 </div>
-<div>
- <h2>Name: 이소민</h4>
- <h2>Email: somin9132@naver.com</h4>
+<div align=center>
+ <h3>Name: 이소민</h4>
+ <h3>Email: somin9132@naver.com</h4>
 </div>
 
 <div align=center>
