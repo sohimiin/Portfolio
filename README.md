@@ -3,7 +3,7 @@
 <div align=center>
    <h3>👩🏻‍💻 Profile 👩🏻‍💻</h3>
 </div>
-<div>
+<div style="margin: 0 auto">
  <h4>Name: 이소민</h4>
  <h4>Email: somin9132@naver.com</h4>
 </div>
