@@ -1,9 +1,8 @@
 -------------------------------------------
 <div align=center>
- <img src="https://capsule-render.vercel.app/api?type=waving&color=6699FF&height=200&section=header&animation=fadeIn&descAlignY=57&descAlign=58" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=autoF&height=200&section=header&animation=fadeIn&descAlignY=57&descAlign=58" />
 </div>
 <div align=center>
- <p><img width="30%" src="https://github.com/sohimiin/YACJANGSU/assets/71215507/d525ae02-960d-4314-a6f0-f62b1aa1968c"></p><br>
  <h4>Name: 이소민</h4>
  <h4>Email: somin9132@naver.com</h4>
 </div>
