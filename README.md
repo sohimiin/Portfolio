@@ -1,5 +1,8 @@
 -------------------------------------------
 <div align=center>
+   <h3>👩🏻‍💻 Profile 👩🏻‍💻</h3>
+</div>
+<div align=center>
  <h3>Name: 이소민</h4>
  <h3>Email: somin9132@naver.com</h4>
 </div>
