@@ -1,6 +1,6 @@
-<div align=center>
- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Somin's Porfolio&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44)
-</div>
+
+ ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Somin's Porfolio&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44)
+
 <div align=center>
    <h3>👩🏻‍💻 Profile 👩🏻‍💻</h3>
 </div>
