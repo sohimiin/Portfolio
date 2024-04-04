@@ -42,13 +42,31 @@
 <div align=center>
    <h3>🖥 Project 🖥</h3>
 </div>
-
-[영양제 종합 쇼핑몰 웹 사이트 개발 프로젝트](https://github.com/sohimiin/YACJANGSU)
-<br>
-[API를 활용한 맛집 정보 커뮤니티 웹 사이트 개발 프로젝트](https://github.com/sohimiin/WITH)
-<br>
-[모바일 부동산 애플리케이션 개발 프로젝트](https://github.com/sohimiin/HanBang)
-<br>
-[QR을 사용하여 매장 제품 찾기](https://github.com/sohimiin/ALLQ)
+<div align=center>
+   <details>
+      <summary>영양제 종합 쇼핑몰 웹 사이트 개발 프로젝트&nbsp</summary>
+      <div markdown="1">
+         <p>https://github.com/sohimiin/YACJANGSU</p>
+      </div>
+   </details>
+   <details>
+      <summary>API 활용 맛집 정보 커뮤니티 개발 프로젝트&nbsp&nbsp&nbsp</summary>
+      <div markdown="1">
+         <p>https://github.com/sohimiin/WITH</p>
+      </div>
+   </details>
+   <details>
+      <summary>모바일 부동산 애플리케이션 개발 프로젝트&nbsp&nbsp&nbsp</summary>
+      <div markdown="1">
+         <p>https://github.com/sohimiin/HanBang</p>
+      </div>
+   </details>
+   <details>
+      <summary>QR코드 사용하여 올리브영 제품 찾기&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</summary>
+      <div markdown="1">
+         <p>https://github.com/sohimiin/ALLQ</p>
+      </div>
+   </details>
+</div>
 
 
